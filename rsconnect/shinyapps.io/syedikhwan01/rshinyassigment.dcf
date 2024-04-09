@@ -1,0 +1,13 @@
+name: rshinyassigment
+title: rshinyassigment
+username: syedikhwan01
+account: syedikhwan01
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11705135
+bundleId: 8470765
+url: https://syedikhwan01.shinyapps.io/rshinyassigment/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: claim_data.xlsx|README.md
