@@ -2,6 +2,7 @@ library(shiny)
 library(bslib)
 library(readxl)
 library(ChainLadder)
+library(rsconnect)
 
 ui <- page_sidebar(
   title = "Cumulative Claim Paid",
